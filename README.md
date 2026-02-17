@@ -1,6 +1,7 @@
 # stock-simulator
 📊 Monte Carlo Option Pricing Simulator
 
+Make env and downlode requirements.txt
 A Python-based Monte Carlo simulation framework for pricing European call and put options using Geometric Brownian Motion (GBM).
 
 This project compares Monte Carlo estimated prices with the analytical Black-Scholes model and visualizes simulated stock paths through animation.
